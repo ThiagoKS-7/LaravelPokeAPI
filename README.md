@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Replit setup
+## Laravel Pokemon API - Replit setup
 1. run `php artisan key:generate` to generate an unique key for your project
 1. set environment variables in `.laravel.env`
 1. ▶ Run
